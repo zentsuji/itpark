@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itpark/static/css/main.8577d74c.css",
+    "main.js": "/itpark/static/js/main.b168070a.js",
+    "static/js/453.abdfe4c5.chunk.js": "/itpark/static/js/453.abdfe4c5.chunk.js",
+    "index.html": "/itpark/index.html",
+    "main.8577d74c.css.map": "/itpark/static/css/main.8577d74c.css.map",
+    "main.b168070a.js.map": "/itpark/static/js/main.b168070a.js.map",
+    "453.abdfe4c5.chunk.js.map": "/itpark/static/js/453.abdfe4c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8577d74c.css",
+    "static/js/main.b168070a.js"
+  ]
+}
